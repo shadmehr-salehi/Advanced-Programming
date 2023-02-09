@@ -7,5 +7,6 @@ some of the rules : <br/>
 4- words count between 100 and 5000 <br/>
 5- not using a word more than 50 times <br/>
 6- article title should be less than 12 words <br/>
-# Second Project : <br/>
-Storing Music Details <br/> 
+# Music Class  <br/>
+Storing Music Details And More <br/>
+You will See More Through The Code <br/>

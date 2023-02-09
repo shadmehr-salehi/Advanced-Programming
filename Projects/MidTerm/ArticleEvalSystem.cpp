@@ -8,6 +8,7 @@ some of the rules :
 5- not using a word more than 50 times 
 6- article title should be less than 12 words
 */
+// you can see an accepted article in the same directory
 #include <bits/stdc++.h>
 using namespace std;
 // ---- A Drunk Man Will Find His Way Home but a Drunk Bird May Get Lost Forever =) ---- //

@@ -1,5 +1,5 @@
 // find the biggest common sub string , they can be reversed too 
-/* 
+/*  
 EG : 
 3
 ABCDEF
